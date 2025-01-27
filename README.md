@@ -19,13 +19,13 @@ Here are some of the tools and technologies I work with:
 
 ## 📂 **Projects**  
 
-### **Top Selling Products Data Analysis**  
+### **Sales KPIs Dashboard Project**  
 - **Description**: Analyzed a structured dataset to identify top-selling products across categories.  
 - **Key Achievements**:  
-  - Designed an interactive Power BI dashboard with key insights, including total units sold, revenue, average ratings, and top-performing products.  
-  - Developed custom DAX measures to calculate KPIs such as Total Revenue, Average Rating, and Total Tax.  
-  - Created dynamic visualizations with filters and slicers to enhance interactivity.  
-- **Tools Used**: Power BI  
+- This project involves a **Sales KPIs Dashboard** designed to provide key performance indicators (KPIs) for sales.
+- Built using **Excel**, the dashboard offers detailed analytics based on product categories, top-performing products, sales territories, and monthly trends.
+- The goal is to help stakeholders understand sales performance, identify trends, and make data-driven decisions 
+- **Tools Used**: MS-Excel  
 
 ---
 
