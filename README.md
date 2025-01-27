@@ -20,12 +20,14 @@ Here are some of the tools and technologies I work with:
 ## 📂 **Projects**  
 
 ### **Sales KPIs Dashboard Project**  
-- **Description**: Analyzed a structured dataset to identify top-selling products across categories.  
+- **Description**:
+- Analyzed a structured dataset to identify top-selling products across categories.  
 - **Key Achievements**:  
 - This project involves a **Sales KPIs Dashboard** designed to provide key performance indicators (KPIs) for sales.
 - Built using **Excel**, the dashboard offers detailed analytics based on product categories, top-performing products, sales territories, and monthly trends.
 - The goal is to help stakeholders understand sales performance, identify trends, and make data-driven decisions 
-- **Tools Used**: MS-Excel  
+- **Tools Used**:
+- MS-Excel  
 
 ---
 
